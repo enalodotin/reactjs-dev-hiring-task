@@ -4,7 +4,7 @@ The main task of the test is not to find out how much you know React, but to see
 
 ### Description
 
-We need to write a single page application to display movies using The Movie Database API.
+We need to write a single page application to display movies using [The Movie Database API](https://developers.themoviedb.org/3).
 
 When opening the application, a list of popular movies with pagination or dynamic loading (optional) should be displayed. There should also be a search field on the page. When you enter some text there, the films that correspond to it should be displayed. For each movie, the list should display a list of genres (genre names, not idics) to which it belongs.
 
