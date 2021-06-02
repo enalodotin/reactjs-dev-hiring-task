@@ -10,7 +10,7 @@ When opening the application, a list of popular movies with pagination or dynami
 
 When you click on a card with a film, a page with detailed information about this film and a list of recommended or similar (you can do both) films to it should be shown.
 
-Also implement the ability to add movies to favorites both from the list and on the page with a single movie. Save the list of such movies locally (localStorage, for example). Consider viewing a list of favorite films somewhere in the application and removing them from favorites. Also, provide information on the card with the movie and its page that this movie has been added to favorites.
+Also implement the ability to add movies to favorites both from the list and on the page with a single movie. Save the list of such movies locally (localStorage/redux, for example). Consider viewing a list of favorite films somewhere in the application and removing them from favorites. Also, provide information on the card with the movie and its page that this movie has been added to favorites.
 
 
 
